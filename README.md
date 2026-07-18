@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Shambhavisharma13/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/Shambhavisharma13/Leetcode/tree/master/0817-linked-list-components) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
