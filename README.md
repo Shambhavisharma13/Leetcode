@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shambhavisharma13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shambhavisharma13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0817-linked-list-components](https://github.com/Shambhavisharma13/Leetcode/tree/master/0817-linked-list-components) |
+| [3046-split-the-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/3046-split-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/Shambhavisharma13/Leetcode/tree/master/0817-linked-list-components) |
+| [3046-split-the-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
+| [3046-split-the-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
