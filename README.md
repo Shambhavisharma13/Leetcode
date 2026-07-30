@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Shambhavisharma13/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
