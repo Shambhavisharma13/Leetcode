@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shambhavisharma13/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Shambhavisharma13/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0503-next-greater-element-ii](https://github.com/Shambhavisharma13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Shambhavisharma13/Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/Shambhavisharma13/Leetcode/tree/master/0817-linked-list-components) |
 | [1470-shuffle-the-array](https://github.com/Shambhavisharma13/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shambhavisharma13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shambhavisharma13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Shambhavisharma13/Leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shambhavisharma13/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
