@@ -1,5 +1,92 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
+##  Progress
+
+- Total Problems Solved: **30+**
+- Language: **Java**
+- Platforms: **LeetCode**
+- Focus: **Interview Preparation**
+
+---
+
+##  Topics Covered
+
+### Arrays
+- 3Sum Closest
+- 4Sum
+- Merge Intervals
+- Maximum Product Subarray
+- Next Greater Element II
+
+### Linked List
+- Remove Nth Node From End
+- Reverse Linked List
+- Reverse Linked List II
+- Linked List Cycle
+- Middle of the Linked List
+- Remove Nodes From Linked List
+
+### Stack & Monotonic Stack
+- Next Greater Element II
+- Online Stock Span
+
+### Binary Search
+- Find First and Last Position
+- Search in Rotated Sorted Array II
+
+### Dynamic Programming
+- Maximum Product Subarray
+
+### Backtracking
+- Permutations
+
+---
+
+## Folder Structure
+
+```
+
+Arrays/
+LinkedList/
+Stack/
+BinarySearch/
+DynamicProgramming/
+Backtracking/
+
+```
+
+---
+
+##  Featured Problems
+
+| Problem | Approach | Complexity |
+|--------|----------|------------|
+| Valid Parentheses | Stack | O(n) |
+| Next Greater Element II | Monotonic Stack | O(n) |
+| Reverse Linked List | Iterative | O(n) |
+| Remove Nodes From Linked List | Recursion + Stack | O(n) |
+| Maximum Product Subarray | Dynamic Programming | O(n) |
+
+---
+
+##  Goal
+
+Consistently solve and document LeetCode problems while improving:
+
+- Problem-solving
+- Pattern recognition
+- Time & space complexity analysis
+- Clean Java implementation
+
+---
+
+##  Connect With Me
+
+- GitHub: https://github.com/Shambhavisharma13
+- LeetCode: https://leetcode.com/u/Shambhavi1234/
+- CodeChef: https://www.codechef.com/users/shambhavi_9934
+- Codeforces: https://codeforces.com/profile/Shambhavi124
+
+---
 # LeetCode Topics
 ## Hash Table
 |  |
